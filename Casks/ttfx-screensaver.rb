@@ -13,7 +13,7 @@ cask "ttfx-screensaver" do
     strategy :github_latest
   end
 
-  depends_on macos: ">= :big_sur"
+  depends_on macos: :big_sur
 
   screen_saver "ttfx.saver"
 
