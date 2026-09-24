@@ -1,6 +1,6 @@
 cask "ttfx-screensaver" do
-  version "0.1.5"
-  sha256 "4df05b544d79ec940d1f0626f75f5b84793f1a387439bfcba12a3b60d9f37aac"
+  version "0.1.6"
+  sha256 "17eab151d38f27163e1312c511f28fa10b303c0ecb8065dba69c09462c635a5a"
 
   url "https://github.com/HiroProt/ttfx-macos-screensaver/releases/download/v#{version}/ttfx-screensaver-#{version}.pkg"
   name "ttfx screen saver"
